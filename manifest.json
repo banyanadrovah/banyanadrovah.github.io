@@ -1,11 +1,11 @@
 {
-    "name": "hell_test",
-    "short_name": "hell_test",
+    "name": "bathhouse",
+    "short_name": "bathhouse",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "CRM",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
